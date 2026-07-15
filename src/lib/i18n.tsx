@@ -132,7 +132,7 @@ const dictionary: Record<Lang, Dictionary> = {
       eyebrow: "Portafolio",
       title: "Trabajos recientes",
       subtitle:
-        "Una selección de procesos de color realizados en el estudio. Las imágenes reales de cada trabajo se irán incorporando próximamente.",
+        "Una selección de transformaciones de color realizadas en el estudio, cada una diseñada a medida.",
       comingSoon: "Próximamente",
     },
     studio: {
@@ -219,7 +219,7 @@ const dictionary: Record<Lang, Dictionary> = {
       eyebrow: "Portfolio",
       title: "Recent work",
       subtitle:
-        "A selection of color work created in the studio. Real photos of each project will be added soon.",
+        "A selection of color transformations created in the studio, each one tailored to the individual.",
       comingSoon: "Coming soon",
     },
     studio: {
